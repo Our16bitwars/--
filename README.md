@@ -3,7 +3,12 @@
 
 <img width="689" height="559" alt="Untitled296_20251227154855" src="https://github.com/user-attachments/assets/bcc53678-fcb1-479b-885b-2afbc339e666" />
 
-<img width="689" height="559" alt="Untitled296_20251227160257" src="https://github.com/user-attachments/assets/76dba0e5-695d-447b-92d0-cd9dd645743d" />
+
+<img width="689" height="559" alt="Untitled296_20251227160257" src="https://github.com/user-attachments/assets/cd33af54-680f-488e-ab7c-75b8d1c3bf2c" />
+
+
+
+<img width="689" height="559" alt="Untitled296_20251227161850" src="https://github.com/user-attachments/assets/a2f8cce7-8cbe-41db-9ec2-b0f8cd9ef3be" />
 
 
 This is a wip ok?
