@@ -3,4 +3,7 @@
 
 <img width="689" height="559" alt="Untitled296_20251227154855" src="https://github.com/user-attachments/assets/bcc53678-fcb1-479b-885b-2afbc339e666" />
 
+<img width="689" height="559" alt="Untitled296_20251227160257" src="https://github.com/user-attachments/assets/76dba0e5-695d-447b-92d0-cd9dd645743d" />
+
+
 This is a wip ok?
